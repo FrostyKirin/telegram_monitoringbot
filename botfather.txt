@@ -1,0 +1,20 @@
+#Si vous désirez redéployer le bot et récupérer les suggestions de commandes, il vous faudra envoyer /setcommands au botfather, puis lui envoyer les lignes ci-dessous
+
+
+start - Démarre le bot 
+help - Affiche un message d'aide sur l'utilisation du bot
+get_all - Affiche l'ensemble des statistiques disponibles pour le fond
+get_net_exposure - Affiche l'exposition nette
+get_gross_exposure - Affiche l'exposition brute
+get_non_eur_exposure - Affiche l'exposition aux produits non européens
+get_small_cap_exposure - Investissement dans des boîtes de Mk Cap <1md$ 
+get_eur_exposure - Investissement dans des produits européens
+get_opc_exposure - Investissement dans d'autres fonds 
+get_max_perc_exposure - Investissement dans le produit le plus acheté 
+get_pea_exposure - Investissement dans des produits pea-bles
+get_non_cash_equity_exposure - Investissement dans autre chose que du cash
+get_derivatives_exposure - Investissement dans les produits dérivés
+get_cash_exposure - Investissement en cash
+get_cash_loan_exposure - Cash loan disponible
+get_srri - Affiche le SRRI
+get_id_fund - Affiche l'identifiant du fond
